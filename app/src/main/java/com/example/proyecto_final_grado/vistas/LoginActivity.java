@@ -32,13 +32,11 @@ public class LoginActivity extends AppCompatActivity {
 
         authController = new Autenticacion_Controller();
 
-        // Ir a la pantalla de registro
         buttonReg.setOnClickListener(v -> {
             Intent intent = new Intent(LoginActivity.this, RegistroActivity.class);
             startActivity(intent);
         });
 
-        // Iniciar sesión
         buttonIns.setOnClickListener(v -> iniciarSesion());
     }
 
