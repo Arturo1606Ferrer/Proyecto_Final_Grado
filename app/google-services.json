@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623850121221",
+    "project_id": "proyecto-final-grado-ee329",
+    "storage_bucket": "proyecto-final-grado-ee329.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623850121221:android:7085de5014daf33424946c",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_final_grado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa-AeSykzz99DKtcIlVCj-9bW9BnIwT2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
